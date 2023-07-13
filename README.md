@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/44e42eb4-d02f-42b8-b2f9-6c10a0cccbb7)# Food Delivery App
+# Food Delivery App
 
 This repository contains the source code and documentation for a food delivery app designed for a restaurant. The app allows users to place orders, check their profiles, and manage their favorites.
 
@@ -23,6 +23,8 @@ After launching the app, you will land on the restaurant's menu. Navigate and se
 
 Access and manage your user profile from the profile section of the app. Add items to your favorites for quick and easy future ordering.
 
+
+![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/44e42eb4-d02f-42b8-b2f9-6c10a0cccbb7)
 
 
 
