@@ -25,10 +25,9 @@ Access and manage your user profile from the profile section of the app. Add ite
 
 
 
-![WhatsApp Image 2023-07-13 at 19 30 01](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/3989999f-650b-4f15-803d-7b0769948148)
 
-![WhatsApp Image 2023-07-13 at 19 30 01 (1)](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/5ce4f04d-177d-4c90-a8ac-53dfe939eac1)
-
-![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/8803bd4f-845d-4463-91be-0512f455df3f)
-
+IMAGES :
+![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/e9313e1b-c2a0-4128-bc61-000a5c7d579a)
+![WhatsApp Image 2023-07-13 at 19 30 01](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/97cba772-648b-47c5-971b-e50118da9f16)
+![WhatsApp Image 2023-07-13 at 19 30 01 (1)](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/54bfbc36-483f-45e6-9167-9c2d9519115f)
 
