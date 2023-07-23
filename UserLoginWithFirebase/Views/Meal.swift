@@ -1,9 +1,4 @@
-//
-//  Meal.swift
-//  Food
-//
-//  Created by BqNqNNN on 7/13/20.
-//
+
 
 import SwiftUI
 
