@@ -1,9 +1,4 @@
-//
-//  OnBoarding.swift
-//  Food
-//
-//  Created llby BqNqNNN on 7/12/20.
-//
+
 
 import SwiftUI
 import UIKit
