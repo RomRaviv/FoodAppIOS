@@ -1,9 +1,4 @@
-//
-//  UserLoginWithFirebaseApp.swift
-//  UserLoginWithFirebase
-//
-//  Created by Tom Huynh on 9/2/22.
-//
+
 
 import SwiftUI
 import Firebase
