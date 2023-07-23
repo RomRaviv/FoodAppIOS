@@ -1,9 +1,3 @@
-//
-//  OurPicks.swift
-//  Food
-//
-//  Created by BqNqNNN on 7/14/20.
-//
 
 import SwiftUI
 
