@@ -1,35 +1,32 @@
-# Food Delivery App
+# User Authentication with Firebase for iOS application
 
-This repository contains the source code and documentation for a food delivery app designed for a restaurant. The app allows users to place orders, check their profiles, and manage their favorites.
+Here is an example how to sign in (login) and sign up (register) a new user account using Firebase SDK for iOS application.
 
-## Features
+<p align="center">
+  <img width="200" src="https://i.imgur.com/6jovHGu.png">
+</p>
 
-The food delivery app offers the following features:
+## 📖 Description
 
-1. **Order Placement**: Users can browse the restaurant's menu, select items, customize them, and place orders.
-2. **User Profile**: Users can create profiles, view and edit their personal information, manage addresses, and track order history.
-3. **Favorites**: Users can add items to their favorites list for quick access and easy reordering.
+- This app has two views: Sign In view and Sign Up view.
+- You can sign up a new user account on a Firebase project and login with that new user by entering a correct username and password.
 
-## Prerequisites
+<p align="center">
+  <img src="https://i.imgur.com/3HK4h8U.png" width="200" > 
+  <img src="https://i.imgur.com/3JfFckB.png" width="200" > 
+  <img src="https://i.imgur.com/anD5zC9.png" width="200" > 
+  <img src="https://i.imgur.com/P9PeZAk.png" width="200" >
+</p>
 
-To run the food delivery app locally, you need to have the following software installed:
-
-- Xcode (latest version)
-- Swift (latest version)
-
-## Usage
-
-After launching the app, you will land on the restaurant's menu. Navigate and select items, customize them, and proceed to order. Fill in necessary details such as delivery address and contact information, confirm your order, and wait for confirmation.
-
-Access and manage your user profile from the profile section of the app. Add items to your favorites for quick and easy future ordering.
-
-
-![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/44e42eb4-d02f-42b8-b2f9-6c10a0cccbb7)
-
-
-
-IMAGES :
-![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/e9313e1b-c2a0-4128-bc61-000a5c7d579a)
-![WhatsApp Image 2023-07-13 at 19 30 01](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/97cba772-648b-47c5-971b-e50118da9f16)
-![WhatsApp Image 2023-07-13 at 19 30 01 (1)](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/54bfbc36-483f-45e6-9167-9c2d9519115f)
-
+## 🔧 Build Information
+- Xcode 13.4.1
+- SwiftUI Framework
+- Target Deployment iOS >=15.5
+- Library: Firebase
+  - Remember to install Firebase SDK via the package manager on Xcode. (This project got pre-installed Firebase SDK packages so you can skip this)
+  - Also, copy your own GoogleService-Info.plist config file of your Firebase project into the Xcode project.
+  - Make sure to clear the package cache on Xcode to run this project on a new iMac/Macbook:
+    - In Xcode, run File ➜ Packages ➜ Reset Package Caches
+    
+## 🏆 Author
+- Huynh Nguyen Minh Thong (Tom Huynh) - tomhuynhsg@gmail.com
