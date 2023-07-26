@@ -24,7 +24,6 @@ After launching the app, you will land on the restaurant's menu. Navigate and se
 Access and manage your user profile from the profile section of the app. Add items to your favorites for quick and easy future ordering.
 
 
-![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/44e42eb4-d02f-42b8-b2f9-6c10a0cccbb7)
 
 
 
@@ -34,6 +33,7 @@ Access and manage your user profile from the profile section of the app. Add ite
 
 
 ## APP IMAGES:
+![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/44e42eb4-d02f-42b8-b2f9-6c10a0cccbb7)
 ![WhatsApp Image 2023-07-13 at 19 30 00](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/e9313e1b-c2a0-4128-bc61-000a5c7d579a)
 ![WhatsApp Image 2023-07-13 at 19 30 01](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/97cba772-648b-47c5-971b-e50118da9f16)
 ![WhatsApp Image 2023-07-13 at 19 30 01 (1)](https://github.com/RomRaviv/FoodAppIOS/assets/88636798/54bfbc36-483f-45e6-9167-9c2d9519115f)
